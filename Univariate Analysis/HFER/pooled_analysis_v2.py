@@ -1,7 +1,6 @@
 #%%
 import pandas as pd
 import numpy as np
-from ieeg.auth import Session
 from resampy import resample
 import re
 import scipy.stats as stats
